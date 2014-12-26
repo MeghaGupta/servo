@@ -18,11 +18,9 @@ extern crate geom;
 extern crate getopts;
 extern crate layers;
 extern crate libc;
-extern crate native;
 extern crate rand;
 extern crate rustrt;
 extern crate serialize;
-extern crate sync;
 #[cfg(target_os="macos")]
 extern crate task_info;
 extern crate "time" as std_time;
